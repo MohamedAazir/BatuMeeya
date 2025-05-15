@@ -12,7 +12,7 @@ This repository contains the design and implementation files of the micromouse B
 | MPU6050          | 6-axis gyroscope & accelerometer         |
 | VL53L0X x2/3     | Time-of-Flight distance sensors           |
 | MX1508 Driver    | Motor driver module                      |
-| N20 Motors       | High RPM DC motors with encoders         |
+| N20 Motors       | 200 RPM DC motors with encoders         |
 | Ball Caster      | For 3-wheeled stable design              |
 
 ## 🔍 Component Descriptions
